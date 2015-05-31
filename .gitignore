@@ -1,0 +1,4 @@
+/.idea/
+/target/
+/web-app/WEB-INF/classes/
+*.iml
